@@ -1,4 +1,4 @@
-# Business Magician AI UI
+#Deaf First UI
 
 A customized fork of [shadcn/ui](https://github.com/shadcn-ui/ui) - Accessible and customizable components built with Radix UI and Tailwind CSS.
 
